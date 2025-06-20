@@ -35,7 +35,7 @@ import {
 const navigation = [
     { name: 'Home', href: '/', icon: HomeIcon },
     { name: 'Data', href: '/data', icon: TableCellsIcon },
-    { name: 'Reports', href: '/reports', icon: ChartPieIcon },
+    // { name: 'Reports', href: '/reports', icon: ChartPieIcon },
 ];
 
 
